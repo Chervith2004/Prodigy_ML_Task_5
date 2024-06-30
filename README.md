@@ -1,6 +1,6 @@
 # Prodigy_ML_Task_5
 
-Linkedin post link:
+Linkedin post link:https://www.linkedin.com/posts/gottipati-2004-chervith_machinelearning-prodigyinfotech-activity-7213158964170039297-q9_j?utm_source=share&utm_medium=member_desktop
 
 Overview: This repository contains a project for classifying food images using a DenseNet-201 model. The project includes data preprocessing, model training, and evaluation. The dataset used is the Food-101 dataset, which contains images of 101 different food categories.
 
